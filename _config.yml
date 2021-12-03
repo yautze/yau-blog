@@ -103,7 +103,7 @@ theme: next
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: git@github.com:yautze/yau-blog.git
+  repository: git@github.com:yautze/yautze.github.io.git
   branch: master
 
 # 圖片懶加載
