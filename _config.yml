@@ -112,7 +112,7 @@ lazyload:
   onlypost: false
   loadingImg: /images/loading.gif
 
-# count
+# 文字統計 - count
 symbols_count_time:
   symbols: true # 文章字數統計顯示
   time: true # 文章閱讀時間顯示
